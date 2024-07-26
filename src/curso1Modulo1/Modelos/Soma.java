@@ -1,4 +1,4 @@
-package Modelos;
+package curso1Modulo1.Modelos;
 
 public class Soma implements Conta{
     private int var10=10, var5=5;

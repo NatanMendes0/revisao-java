@@ -1,4 +1,4 @@
-package Modelos;
+package curso1Modulo1.Modelos;
 
 public class Estudos {
     private String materia, atividade;

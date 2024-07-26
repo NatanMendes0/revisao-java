@@ -1,6 +1,8 @@
-import Modelos.Estudos;
-import Modelos.Soma;
-import Modelos.Subtracao;
+package curso1Modulo1;
+
+import curso1Modulo1.Modelos.Estudos;
+import curso1Modulo1.Modelos.Soma;
+import curso1Modulo1.Modelos.Subtracao;
 
 public class Main {
     public static void main(String[] args) {
